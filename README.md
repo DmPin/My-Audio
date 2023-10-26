@@ -12,7 +12,7 @@ To run the program, you only need to execute the `MyAudioUI.java` file. This fil
 
 2. Navigate to the directory where you have cloned or downloaded this repository.
 
-3. Execute the `MyAudioUI` file by running the following command:
+3. Execute the `MyAudioUI` file by running the following command: \n
 .\MyAudioUI.java
 
 
